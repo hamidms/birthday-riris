@@ -1,0 +1,15 @@
+/* Contoh: poem.module.css */
+.poem {
+    height: 100vh; /* Fullscreen */
+    background-color: #ffe0e9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  
+  .poem h2 {
+    font-size: 2rem;
+    color: #c2185b;
+  }
+  

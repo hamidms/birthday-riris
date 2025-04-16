@@ -1,0 +1,15 @@
+/* Contoh: Wishes.module.css */
+.wishes {
+    height: 100vh; /* Fullscreen */
+    background-color: #ffe0e9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  
+  .wishes h2 {
+    font-size: 2rem;
+    color: #b78599;
+  }
+  
